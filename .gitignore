@@ -1,0 +1,6 @@
+# ignoring node_modules folder in both
+votingDapp/node_modules/
+votingBackendServer/node_modules/
+
+# Ignore .env file in the backend directory
+votingBackendServer/.env

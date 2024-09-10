@@ -1,0 +1,6 @@
+Vote Token address => 0x0654f24bB3264Dd93EFBCaD97f45c4449d1ECF88 
+voting contract address => 0x130ECe48414C060792D7eFb18aCF7687F150D75a
+TokenExchange address => 0xdbbD2317F93a51Ca060B26f377d7f995B65cd7b7
+ 
+
+
